@@ -1,0 +1,152 @@
+#header {
+    background-color: grey;
+    padding: 2px;
+
+}
+
+#header_brand_text {
+    line-height: 0.5;
+}
+
+.link_with_no_text_decoration {
+    text-decoration: none;
+
+}
+
+img {
+    width: 300px;
+
+
+}
+
+.about-name {
+    display: block;
+    text-align: center;
+    font-size: 1rem;
+    margin-top: 0em;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    font-weight: 100;
+    line-height: 1.5;
+    color: #dd4b39;
+}
+
+#about-heart {
+    color: red;
+}
+
+#about-tagline {
+    font-weight: 100;
+    font-style: italic;
+    color: #dd4b39;
+    margin-top: 0em;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: 100;
+    line-height: 1.5;
+    display: block;
+}
+
+#testimonials {
+    display: block;
+    background-color: maroon;
+    text-align: center;
+    height: 50vh;
+    box-sizing: border-box;
+}
+
+#section-header {
+    display: block;
+    color: white;
+    background-color: white;
+    text-align: center;
+    width: fit-content;
+    line-height: 1.2;
+    height: fit-content;
+    margin: 0 auto 2rem auto;
+    border-bottom: 0.2rem solid white;
+    font-size: 2rem;
+    padding: 6rem 0rem 2rem 0rem;
+    box-sizing: border-box;
+
+
+}
+
+.section-carsousel {
+    width: 100%;
+    overflow-x: scroll;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 1.5;
+    color: #212529;
+
+}
+
+#testimonial-container {
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    min-width: 100%;
+    justify-content: center;
+    box-sizing: border-box;
+    text-align: center;
+    height: 100%;
+    -webkit-tap-highlight-color: transparent;
+
+}
+
+.card {
+    position: relative;
+    display: flex;
+    min-width: 100%;
+    word-wrap: break-word;
+    border: 1px solid rgba(0, 0, .125);
+    border-radius: .25rem;
+    box-sizing: border-box;
+    height: 300px;
+    -webkit-tap-highlight-color: transparent;
+
+}
+
+.card-body {
+    flex: 1 1 auto;
+    padding: 1.25rem;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.card-img {
+    border-radius: 50%;
+    border: 1 px solid #ddd;
+    padding: 5px;
+    width: 150px;
+
+
+
+
+}
+
+
+
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+
+.fa-google {
+    background: #dd4b39;
+    color: white;
+}
+
+
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
